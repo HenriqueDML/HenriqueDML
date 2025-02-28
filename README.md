@@ -1,8 +1,8 @@
-# Henrique D. M. L.  
-🎯 Desenvolvedor de Software | Estudante de ADS | Apaixonado por Tecnologia  
+# Henrique F. Garcia
+🎯 Desenvolvedor de Software | Estudante de ADS 
 
 📍 São Paulo, Brasil  
-📧 [E-mail] | 🌐 [LinkedIn] | 💻 [GitHub](https://github.com/HenriqueDML)  
+📧 [E-mail] | 🌐 [LinkedIn] (https://www.linkedin.com/in/henrique-fgarcia) | 💻 [GitHub](https://github.com/HenriqueDML)  
 
 ---
 
@@ -10,7 +10,7 @@
 Sou um desenvolvedor de software apaixonado por tecnologia e inovação, sempre buscando desafios que me permitam crescer e aprender. Meu foco está no desenvolvimento backend, Inteligência Artificial e otimização de processos com tecnologia.  
 
 🏆 **1º Lugar na Global Solution 2024 (FIAP)**, em um desafio envolvendo mais de 800 alunos.  
-💡 Interesse em **IA, Chatbots, SQL, APIs e otimização de processos com tecnologia**.  
+💡 Interesse em **Java, C#, Python, IA, SQL, Cloud e otimização de processos com tecnologia**.  
 📌 Sempre buscando melhorar minhas habilidades e contribuir para projetos impactantes.  
 
 ---
@@ -23,14 +23,16 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação, sempre 
 
 ## 🚀 Habilidades Técnicas  
 
-### 📌 Linguagens  
-✅ **Java, Python, SQL** *(Proficiente)*  
-✅ **JavaScript, HTML, CSS** *(Intermediário)*  
+### 📌 Conhecimentos 
+✅ **Java, Python, SQL**
+✅ **JavaScript, HTML, CSS**
+✅ **JavaScript, HTML, CSS**
+✅ **JavaScript, HTML, CSS**
 
 ### 🛠 Frameworks & Ferramentas  
 🔹 **Spring Boot, Flask, Tailwind CSS, Jupyter Notebook**  
 🔹 **PostgreSQL, MySQL, Oracle Database**  
-🔹 **Git, GitHub, Power BI, Docker**  
+🔹 ** GitHub, Power BI, **  
 
 ### 🌍 Desenvolvimento de APIs  
 🔹 **API REST** com Java (Spring Boot) e Python (Flask)  
@@ -40,23 +42,23 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação, sempre 
 🔹 **Oracle, PostgreSQL, MySQL**  
 
 ### ⚡ Metodologias  
-🔹 **Ágil (Scrum/Kanban), Clean Code, Versionamento com Git**  
+🔹 **Ágil (Scrum/Kanban), Clean Code**  
 
 ---
 
 ## 🌐 Projetos em Destaque  
 
 ### 🔥 **[IAcardiaca](https://github.com/HenriqueDML/IAcardiaca)**  
-📌 **Tecnologias:** Python, Jupyter Notebook  
-🧠 **Descrição:** Modelo de Inteligência Artificial para classificação de dados cardíacos.  
+📌 **Tecnologias:** Python, Pandas, Seaborn, Jupyter Notebook  
+🧠 **Descrição:** Modelo de Inteligência Artificial para classificação de dados cardíacos e risco cardíacos de pacientes.  
 
-### 💻 **[exemplo-aulagit](https://github.com/HenriqueDML/exemplo-aulagit)**  
-📌 **Tecnologias:** HTML  
-🖥 **Descrição:** Aprendendo a usar o GitHub pelo terminal, com a subida de um arquivo.  
+### 💻 **[exemplo-aulagit](https://github.com/HenriqueDML/javasprint4)**  
+📌 **Tecnologias:** Java
+🖥 **Descrição:** O ChatCar é uma plataforma desenvolvida por nossa equipe, utilizando IA para reconhecimento de problemas em automóveis dentro de uma página web. O serviço foi realizado para a Porto Seguro por meio da FIAP.  
 
-### 🌊 **[cp2front](https://github.com/HenriqueDML/cp2front)**  
-📌 **Tecnologias:** HTML, CSS  
-🏨 **Descrição:** Site para um hotel à beira-mar.  
+### 🌊 **[cp2front](https://github.com/HenriqueDML/Java-Advanced-Projeto-21)**  
+📌 **Tecnologias:** Java  
+🏨 **Descrição:** Projeto de um Jogo 21 classico em cassino, feito para estudo, com visual interetivo.  
 
 ### 📂 **[biblioteca](https://github.com/HenriqueDML/biblioteca)**  
 📌 **Tecnologias:** Organização de arquivos  
