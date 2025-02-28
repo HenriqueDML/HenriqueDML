@@ -22,7 +22,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação, sempre 
 ---
 
 ## 💼 Objetivo Profissional  
-Buscando meu primeiro estágio em tecnologia para aplicar e aprimorar meus conhecimentos.
+Participar de empresas e projetos que façam a direferença na vida das pessoas.
 
 ---
 
