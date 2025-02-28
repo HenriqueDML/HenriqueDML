@@ -1,62 +1,90 @@
-# HenriqueDML
+# Henrique D. M. L.  
+🎯 Desenvolvedor de Software | Estudante de ADS | Apaixonado por Tecnologia  
 
-Olá, sou HenriqueDML! Bem-vindo ao meu perfil no GitHub. Aqui você encontrará uma coleção de projetos diversos que estou desenvolvendo e estudando.
-
-## Projetos Populares
-
-### [exemplo-aulagit](https://github.com/HenriqueDML/exemplo-aulagit)
-Aprendendo a usar o GitHub pelo terminal, com a subida de um arquivo.
-
-**Tecnologias**: HTML
+📍 São Paulo, Brasil  
+📧 [E-mail] | 🌐 [LinkedIn] | 💻 [GitHub](https://github.com/HenriqueDML)  
 
 ---
 
-### [cp2front](https://github.com/HenriqueDML/cp2front)
-Site para um hotel à beira-mar, utilizando CSS e HTML.
+## 🌟 Sobre Mim  
+Sou um desenvolvedor de software apaixonado por tecnologia e inovação, sempre buscando desafios que me permitam crescer e aprender. Meu foco está no desenvolvimento backend, Inteligência Artificial e otimização de processos com tecnologia.  
 
-**Tecnologias**: HTML, CSS
-
----
-
-### [atividade-04-python](https://github.com/HenriqueDML/atividade-04-python)
-Projeto em Python, baseado em um fork de [ViniciuSaeSouza/atividade-04-python](https://github.com/ViniciuSaeSouza/atividade-04-python).
-
-**Tecnologias**: Python
+🏆 **1º Lugar na Global Solution 2024 (FIAP)**, em um desafio envolvendo mais de 800 alunos.  
+💡 Interesse em **IA, Chatbots, SQL, APIs e otimização de processos com tecnologia**.  
+📌 Sempre buscando melhorar minhas habilidades e contribuir para projetos impactantes.  
 
 ---
 
-### [IAcardiaca](https://github.com/HenriqueDML/IAcardiaca)
-Projeto de Inteligência Artificial focado em classificação, utilizando Python.
-
-**Tecnologias**: Jupyter Notebook, Python
-
----
-
-### [biblioteca](https://github.com/HenriqueDML/biblioteca)
-Acervo de livros em PDF para Kindle.
-
-**Tecnologias**: Organização de arquivos
+## 🎓 Educação  
+🎓 **Tecnologia em Análise e Desenvolvimento de Sistemas – FIAP** *(2023 - 2025)*  
+🎓 **Técnico em Informática – ETEC** *(Concluído)*  
 
 ---
 
-### [javasprint4](https://github.com/HenriqueDML/javasprint4)
-Estudos sobre JavaScript.
+## 🚀 Habilidades Técnicas  
 
-**Tecnologias**: JavaScript
+### 📌 Linguagens  
+✅ **Java, Python, SQL** *(Proficiente)*  
+✅ **JavaScript, HTML, CSS** *(Intermediário)*  
+
+### 🛠 Frameworks & Ferramentas  
+🔹 **Spring Boot, Flask, Tailwind CSS, Jupyter Notebook**  
+🔹 **PostgreSQL, MySQL, Oracle Database**  
+🔹 **Git, GitHub, Power BI, Docker**  
+
+### 🌍 Desenvolvimento de APIs  
+🔹 **API REST** com Java (Spring Boot) e Python (Flask)  
+
+### 📊 Banco de Dados  
+🔹 **Modelagem e otimização de SQL**  
+🔹 **Oracle, PostgreSQL, MySQL**  
+
+### ⚡ Metodologias  
+🔹 **Ágil (Scrum/Kanban), Clean Code, Versionamento com Git**  
 
 ---
 
-## Sobre Mim
+## 🌐 Projetos em Destaque  
 
-Eu sou um desenvolvedor com interesse em diversas tecnologias, incluindo Python, HTML, CSS, e JavaScript. Estou sempre aprendendo e compartilhando meus projetos aqui no GitHub.
+### 🔥 **[IAcardiaca](https://github.com/HenriqueDML/IAcardiaca)**  
+📌 **Tecnologias:** Python, Jupyter Notebook  
+🧠 **Descrição:** Modelo de Inteligência Artificial para classificação de dados cardíacos.  
 
-## Contribua
+### 💻 **[exemplo-aulagit](https://github.com/HenriqueDML/exemplo-aulagit)**  
+📌 **Tecnologias:** HTML  
+🖥 **Descrição:** Aprendendo a usar o GitHub pelo terminal, com a subida de um arquivo.  
 
-Se você encontrar algum projeto interessante ou tiver sugestões para melhoria, sinta-se à vontade para contribuir ou fazer um pull request!
+### 🌊 **[cp2front](https://github.com/HenriqueDML/cp2front)**  
+📌 **Tecnologias:** HTML, CSS  
+🏨 **Descrição:** Site para um hotel à beira-mar.  
 
-Obrigado por visitar meu perfil. Vamos aprender e construir juntos!
+### 📂 **[biblioteca](https://github.com/HenriqueDML/biblioteca)**  
+📌 **Tecnologias:** Organização de arquivos  
+📚 **Descrição:** Acervo de livros em PDF para Kindle.  
 
 ---
 
-### Contato
-- **GitHub**: [HenriqueDML](https://github.com/HenriqueDML)
+## 📚 Atualmente Aprendendo  
+🔹 **Spring Boot e desenvolvimento avançado em Java**  
+🔹 **Integração de sistemas com SQL e BI**  
+🔹 **Práticas de DevOps e versionamento avançado**  
+
+### 🎓 Disciplinas do 2º ano na FIAP:  
+✅ **Advanced Business Development with .NET**  
+✅ **Compliance, Quality Assurance & Tests**  
+✅ **DevOps Tools & Cloud Computing**  
+✅ **Disruptive Architectures: IoT, IoB & Generative IA**  
+✅ **Java Advanced**  
+✅ **Mastering Relational and Non-Relational Database**  
+✅ **Mobile Application Development**  
+
+---
+
+## 🤝 Conecte-se Comigo  
+💬 **Adoro colaborar e trocar conhecimentos!** Se tiver sugestões, feedbacks ou quiser conversar sobre tecnologia, entre em contato.  
+
+📧 [Seu E-mail Aqui]  
+🌐 [LinkedIn](#)  
+💻 [GitHub](https://github.com/HenriqueDML)  
+
+⭐ Se algum projeto foi útil para você, deixe uma **estrela**!  
