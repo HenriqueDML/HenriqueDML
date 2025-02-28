@@ -51,17 +51,17 @@ Participar de empresas e projetos que façam a direferença na vida das pessoas.
 
 ## 🌐 Projetos em Destaque  
 
-### ⚡ **[Energynow](https://github.com/HenriqueDML/EnergyNow-Gerenciador-de-Watts)**  
-📌 **Tecnologias:** Java, Spring Boot, API Rest, PostgreSQL  
-🔋 **Descrição:** Campeão da Global Solution, Primeiro colocado entre 800 alunos. Plataforma de gerenciamento de energia, desenvolvida para otimizar o consumo e fornecer relatórios de eficiência energética em tempo real.
+### ⚡ **[Energynow](https://github.com/HenriqueDML/Projeto-EnergyNow)**  
+📌 **Tecnologias:** Java, Spring Boot, API Rest, PostgreSQL, OracleSQL, Vercel, Figma.
+🔋 **Descrição:** Campeão da Global Solution, Primeiro colocado entre 800 alunos dentro da FIAP. Plataforma de gerenciamento de energia, desenvolvida para otimizar o consumo e fornecer relatórios de eficiência energética em tempo real.
+
+### 💻 **[ChatCar - Sua OficinaIA ](https://github.com/HenriqueDML/Projeto-ChatCar)**  
+📌 **Tecnologias:** Java, Python, React.js, Next, TypeScript, Styled-components, OracleDB.  
+🖥 **Descrição:** O ChatCar é uma plataforma desenvolvida em grupo, utilizando IA para reconhecimento de problemas em automóveis dentro de uma página web. com Objetivo de auxiliar a manutenção de veículos. O serviço foi realizado para a Porto Seguro por meio da FIAP.
 
 ### 🔥 **[IAcardiaca](https://github.com/HenriqueDML/IAcardiaca)**  
 📌 **Tecnologias:** Python, Pandas, Seaborn, Jupyter Notebook  
 🧠 **Descrição:** Modelo de Inteligência Artificial para classificação de dados cardíacos e risco cardíaco de pacientes.
-
-### 💻 **[exemplo-aulagit](https://github.com/HenriqueDML/javasprint4)**  
-📌 **Tecnologias:** Java  
-🖥 **Descrição:** O ChatCar é uma plataforma desenvolvida por nossa equipe, utilizando IA para reconhecimento de problemas em automóveis dentro de uma página web. O serviço foi realizado para a Porto Seguro por meio da FIAP.
 
 ### 🌊 **[cp2front](https://github.com/HenriqueDML/Java-Advanced-Projeto-21)**  
 📌 **Tecnologias:** Java  
