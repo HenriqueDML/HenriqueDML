@@ -1,4 +1,4 @@
-Henrique F. Garcia
+**Henrique F. Garcia**
 🎯 Desenvolvedor de Software | Estudante de ADS | Apaixonado por Tecnologia
 
 📍 São Paulo, Brasil
