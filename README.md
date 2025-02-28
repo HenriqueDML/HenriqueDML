@@ -2,7 +2,7 @@
 🎯 **Desenvolvedor de Software | Estudante de ADS | Apaixonado por Tecnologia**  
 
 📍 São Paulo, Brasil  
-📧 [E-mail](mailto:henriquefgarcia@email.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/henrique-fgarcia) | 💻 [GitHub](https://github.com/HenriqueDML)  
+📧 [E-mail](mailto:hfgarcia97@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/henrique-fgarcia) | 💻 [GitHub](https://github.com/HenriqueDML)  
 
 ---
 
@@ -51,9 +51,9 @@ Buscando meu primeiro estágio em tecnologia para aplicar e aprimorar meus conhe
 
 ## 🌐 Projetos em Destaque  
 
-### ⚡ **[Energynow](https://github.com/HenriqueDML/Energynow)**  
+### ⚡ **[Energynow](https://github.com/HenriqueDML/EnergyNow-Gerenciador-de-Watts)**  
 📌 **Tecnologias:** Java, Spring Boot, API Rest, PostgreSQL  
-🔋 **Descrição:** Plataforma de gerenciamento de energia, desenvolvida para otimizar o consumo e fornecer relatórios de eficiência energética em tempo real.
+🔋 **Descrição:** Campeão da Global Solution, Primeiro colocado entre 800 alunos. Plataforma de gerenciamento de energia, desenvolvida para otimizar o consumo e fornecer relatórios de eficiência energética em tempo real.
 
 ### 🔥 **[IAcardiaca](https://github.com/HenriqueDML/IAcardiaca)**  
 📌 **Tecnologias:** Python, Pandas, Seaborn, Jupyter Notebook  
@@ -88,7 +88,7 @@ Buscando meu primeiro estágio em tecnologia para aplicar e aprimorar meus conhe
 ## 🤝 Conecte-se Comigo  
 💬 Adoro colaborar e trocar conhecimentos! Se tiver sugestões, feedbacks ou quiser conversar sobre tecnologia, entre em contato.
 
-📧 [E-mail](mailto:henriquefgarcia@email.com)  
+📧 [E-mail](mailto:hfgarcia@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/henrique-fgarcia)  
 💻 [GitHub](https://github.com/HenriqueDML)
 
