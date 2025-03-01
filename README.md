@@ -67,7 +67,7 @@ Participar de empresas e projetos que façam a direferença na vida das pessoas.
 📌 **Tecnologias:** Python, Pandas, Seaborn, Jupyter Notebook  
 🧠 **Descrição:** Modelo de Inteligência Artificial para classificação de dados cardíacos e risco cardíaco de pacientes.
 
-### 🌊 **[cp2front](https://github.com/HenriqueDML/Projeto-Jogo-21)**  
+### 🎲 **[Jogo 21](https://github.com/HenriqueDML/Projeto-Jogo-21)**  
 📌 **Tecnologias:** Java, JavaFX, Maven e Recursos Gráficos 
 🏨 **Descrição:** Projeto de um Jogo 21 clássico de cassino, feito para estudo, com visual interativo.
 
