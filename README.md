@@ -29,8 +29,8 @@ Participar de empresas e projetos que façam a direferença na vida das pessoas.
 ## 🚀 Habilidades Técnicas  
 
 ### 📌 Linguagens  
-✅ **Java, Python, SQL**  
-✅ **JavaScript, HTML, CSS**
+✅ **Java, Python, SQL**
+✅ **JavaScript, React, CSS**
 
 ### 🛠 Frameworks & Ferramentas  
 🔹 **Spring Boot, Flask, Tailwind CSS, Jupyter Notebook**  
@@ -43,6 +43,10 @@ Participar de empresas e projetos que façam a direferença na vida das pessoas.
 ### 📊 Banco de Dados  
 🔹 **Modelagem e otimização de SQL**  
 🔹 **Oracle, PostgreSQL, MySQL**
+
+### ☁️ Cloud Computing
+🔹 **Microsoft Azure**
+🔹 **AWS Cloud**
 
 ### ⚡ Metodologias  
 🔹 **Ágil (Scrum/Kanban), Clean Code**
@@ -70,8 +74,8 @@ Participar de empresas e projetos que façam a direferença na vida das pessoas.
 ---
 
 ## 📚 Atualmente Aprendendo  
-🔹 **Spring Boot e desenvolvimento avançado em Java**  
-🔹 **Integração de sistemas com SQL e BI**  
+🔹 **Spring Boot e desenvolvimento avançado em Java, C# e C++**  
+🔹 **Integração de sistemas com PL/SQL, BI**  
 🔹 **Práticas de DevOps e versionamento avançado**
 
 ### 🎓 Disciplinas do 2º ano na FIAP:  
