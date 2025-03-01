@@ -59,12 +59,12 @@ Participar de empresas e projetos que façam a direferença na vida das pessoas.
 📌 **Tecnologias:** Java, Python, React.js, Next, TypeScript, Styled-components, OracleDB.  
 🖥 **Descrição:** O ChatCar é uma plataforma desenvolvida em grupo, utilizando IA para reconhecimento de problemas em automóveis dentro de uma página web. com Objetivo de auxiliar a manutenção de veículos. O serviço foi realizado para a Porto Seguro por meio da FIAP.
 
-### 🔥 **[IAcardiaca](https://github.com/HenriqueDML/IAcardiaca)**  
+### 🔥 **[IAcardiaca](https://github.com/HenriqueDML/Projeto-IACardiaca)**  
 📌 **Tecnologias:** Python, Pandas, Seaborn, Jupyter Notebook  
 🧠 **Descrição:** Modelo de Inteligência Artificial para classificação de dados cardíacos e risco cardíaco de pacientes.
 
-### 🌊 **[cp2front](https://github.com/HenriqueDML/Java-Advanced-Projeto-21)**  
-📌 **Tecnologias:** Java  
+### 🌊 **[cp2front](https://github.com/HenriqueDML/Projeto-Jogo-21)**  
+📌 **Tecnologias:** Java, JavaFX, Maven e Recursos Gráficos 
 🏨 **Descrição:** Projeto de um Jogo 21 clássico de cassino, feito para estudo, com visual interativo.
 
 ---
