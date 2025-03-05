@@ -56,7 +56,7 @@ Participar de empresas e projetos que façam a direferença na vida das pessoas.
 ## 🌐 Projetos em Destaque  
 
 ### ⚡ **[Energynow - Economia](https://github.com/HenriqueDML/Projeto-EnergyNow)**  
-📌 **Tecnologias:** Java, Spring Boot, API Rest, PostgreSQL, OracleSQL, Vercel, Figma.
+📌 **Tecnologias:** Java, Spring Boot, API Rest, PostgreSQL, OracleSQL, Vercel, Figma.  
 🔋 **Descrição:** Campeão da Global Solution, Primeiro colocado entre 800 alunos dentro da FIAP. Plataforma de gerenciamento de energia, desenvolvida para otimizar o consumo e fornecer relatórios de eficiência energética em tempo real.
 
 ### 💻 **[ChatCar - Cuidados ](https://github.com/HenriqueDML/Projeto-ChatCar)**  
