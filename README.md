@@ -33,7 +33,7 @@
 
 ### Conhecimentos Técnicos:
 ![AWSCloud](https://img.shields.io/badge/-AWS%20Cloud-222222?style=for-the-badge&logo=AWSCloud&labelColor=222222)&nbsp;
-![AzuureCloud](https://img.shields.io/badge/-Azuure%20Cloud-222222?style=for-the-badge&logo=AzuureCloud&labelColor=222222)&nbsp;
+![AzureCloud](https://img.shields.io/badge/-Azure%20Cloud-222222?style=for-the-badge&logo=AzureCloud&labelColor=222222)&nbsp;
 ![SQL](https://img.shields.io/badge/-sql-222222?style=for-the-badge&logo=my&labelColor=222222)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-222222?style=for-the-badge&logo=html5&labelColor=222222)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-222222?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=222222)&nbsp;
