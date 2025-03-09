@@ -39,7 +39,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-222222?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=222222)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=for-the-badge&logo=javascript&labelColor=222222&textColor=222222)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-222222?style=for-the-badge&logo=nextdotjs&labelColor=222222)&nbsp;
-![Boostrap](https://img.shields.io/badge/-Boostrap-222222?style=for-the-badge&logo=bootstrap&labelColor=222222)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-BooTstrap-222222?style=for-the-badge&logo=bootstrap&labelColor=222222)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-222222?style=for-the-badge&logo=figma&labelColor=222222)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-222222?style=for-the-badge&logo=node.js&labelColor=222222&textColor=222222)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-222222?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=222222)&nbsp; 
