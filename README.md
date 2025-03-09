@@ -1,15 +1,16 @@
 # Henrique F. Garcia  
 🎯 **Desenvolvedor de Software | Estudante de ADS | Apaixonado por Tecnologia**  
 
-📍 São Paulo, Brasil  
+📍 São Paulo, Brasil
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueDML&layout=compact&theme=nightowl)
+
 <div> 
   <a href = "hfgarcia97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-fgarcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
-
-<h2>Meus conhecimentos</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -20,34 +21,6 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 ---
-
-## 🚀 Habilidades Técnicas  
-
-### 📌 Linguagens  
-✅ **Java, Python, SQL**
-✅ **JavaScript, React, CSS**
-
-### 🛠 Frameworks & Ferramentas  
-🔹 **Spring Boot, Flask, Tailwind CSS, Jupyter Notebook**  
-🔹 **PostgreSQL, MySQL, Oracle Database**  
-🔹 **GitHub, Power BI**
-
-### 🌍 Desenvolvimento de APIs  
-🔹 **API REST** com **Java** (Spring Boot) e **Python** (Flask)
-
-### 📊 Banco de Dados  
-🔹 **Modelagem e otimização de SQL**  
-🔹 **Oracle, PostgreSQL, MySQL**
-
-### ☁️ Cloud Computing
-🔹 **Microsoft Azure**
-🔹 **AWS Cloud**
-
-### ⚡ Metodologias  
-🔹 **Ágil (Scrum/Kanban), Clean Code**
-
----
-
 ## 🌐 Projetos em Destaque  
 
 ### ⚡ **[Energynow - Economia](https://github.com/HenriqueDML/Projeto-EnergyNow)**  
