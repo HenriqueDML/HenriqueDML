@@ -9,24 +9,16 @@
 
 ---
 
-## 🌟 Sobre Mim  
-Sou um desenvolvedor de software apaixonado por tecnologia e inovação, sempre buscando desafios que me permitam crescer e aprender. Meu foco está no desenvolvimento backend, Inteligência Artificial e otimização de processos com tecnologia.  
-
-🏆 **1º Lugar na Global Solution 2024 (FIAP)**, em um desafio envolvendo mais de 800 alunos.  
-💡 Interesse em **Java, C#, Python, IA, SQL, Cloud e otimização de processos com tecnologia**.  
-📌 Sempre buscando melhorar minhas habilidades e contribuir para projetos impactantes.  
-
----
-
-## 🎓 Educação  
-🎓 **Tecnologia em Análise e Desenvolvimento de Sistemas – FIAP** *(2023 - 2025)*  
-🎓 **Técnico em Informática – ETEC** *(Concluído)*  
-
----
-
-## 💼 Objetivo Profissional  
-Participar de empresas e projetos que façam a direferença na vida das pessoas.
-
+<h2>Meus conhecimentos</h2>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 ---
 
 ## 🚀 Habilidades Técnicas  
