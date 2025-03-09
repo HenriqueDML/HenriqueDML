@@ -1,26 +1,33 @@
 # Henrique F. Garcia  
-🎯 **Desenvolvedor de Software | Estudante de ADS | Apaixonado por Tecnologia**  
-
-📍 São Paulo, Brasil
+🎯 **`Desenvolvedor de Software | Estudante de ADS | Apaixonado por Tecnologia`**
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueDML&layout=compact&theme=nightowl)
 
+---
+
+### 🧰 Languages and Tools
+
+<div style="display: inline_block"><br>
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+</div>
+
+---
+## 🤝 Contatos  
 <div> 
   <a href = "hfgarcia97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-fgarcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
----
+
 ## 🌐 Projetos em Destaque  
 
 ### ⚡ **[Energynow - Economia](https://github.com/HenriqueDML/Projeto-EnergyNow)**  
@@ -39,31 +46,3 @@
 📌 **Tecnologias:** Java, JavaFX, Maven e Recursos Gráficos 
 🏨 **Descrição:** Projeto de um Jogo 21 clássico de cassino, feito para estudo, com visual interativo.
 
----
-
-## 📚 Atualmente Aprendendo  
-🔹 **Spring Boot e desenvolvimento avançado em Java, C# e C++**  
-🔹 **Integração de sistemas com PL/SQL, BI**  
-🔹 **Práticas de DevOps e versionamento avançado**
-
-### 🎓 Disciplinas do 2º ano na FIAP:  
-✅ **Advanced Business Development with .NET**  
-✅ **Compliance, Quality Assurance & Tests**  
-✅ **DevOps Tools & Cloud Computing**  
-✅ **Disruptive Architectures: IoT, IoB & Generative IA**  
-✅ **Java Advanced**  
-✅ **Mastering Relational and Non-Relational Database**  
-✅ **Mobile Application Development**
-
----
-
-## 🤝 Conecte-se Comigo  
-💬 Adoro colaborar e trocar conhecimentos! Se tiver sugestões, feedbacks ou quiser conversar sobre tecnologia, entre em contato.
-
-📧 [E-mail](mailto:hfgarcia@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/henrique-fgarcia)  
-💻 [GitHub](https://github.com/HenriqueDML)
-
-⭐ Se algum projeto foi útil para você, deixe uma estrela!  
-
----
