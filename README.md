@@ -1,9 +1,7 @@
 # Henrique F. Garcia  
-🎯 **`Desenvolvedor de Software | Estudante de ADS | Apaixonado por Tecnologia`**
+🎯 **`Desenvolvedor de Software`**
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueDML&layout=compact&theme=nightowl)
-
----
 
 ### 🧰 Languages and Tools 
 
