@@ -1,7 +1,10 @@
 # Henrique F. Garcia  
 🎯 **`Desenvolvedor de Software`**
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueDML&layout=compact&theme=nightowl)
+<div>
+   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueDML&layout=compact&theme=nightowl)
+</div>
+
 
 ## 🧰 Linguagens e Ferramentas 
 
